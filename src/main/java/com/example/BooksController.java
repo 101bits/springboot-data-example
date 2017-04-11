@@ -16,8 +16,11 @@ import java.util.List;
 @Controller
 public class BooksController {
 
-    @Autowired
     private BookService bookService;
+
+    public BooksController(@Autowired final BookService bookService) {
+        this.bookService = bookService;
+    }
 
     @GetMapping("/")
     @ResponseBody
