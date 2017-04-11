@@ -5,8 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 // learn about this annotation in https://spring.io/guides/gs/spring-boot/
 @SpringBootApplication
-public class MyprojectApplication {
+public class PersistenceApplication {
 	public static void main(String[] args) {
-		SpringApplication.run(MyprojectApplication.class, args);
+		SpringApplication.run(PersistenceApplication.class, args);
 	}
 }
