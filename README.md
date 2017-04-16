@@ -17,6 +17,3 @@ JDBC URL: jdbc:h2:mem:testdb
 User Name: sa
 Pasword: <leave this empty>
 ```
-
-
-Connect and you would see a page similar to following  
