@@ -21,7 +21,7 @@ User Name: sa
 Pasword: <leave this empty>
 ```
 
-## How to run without using Dev Tools
+## How to run using Dev Tools
 Add the Spring-Boot Dev Tools dependency
 ```xml
         <dependency>
