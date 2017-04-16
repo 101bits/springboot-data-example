@@ -33,3 +33,5 @@ Add the Spring-Boot Dev Tools dependency
 ```
 That's it. There is no need to change anything in `application.properties`. Follow the *Login to the database* section
 and you would be able to connect to `H2` database using a browser.
+
+Blog link: https://medium.com/@harittweets/how-to-connect-to-h2-database-during-development-testing-using-spring-boot-44bbb287570
